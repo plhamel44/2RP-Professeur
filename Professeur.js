@@ -1,4 +1,10 @@
 /**
+ * Projet : Demostration d'utilisation de Git dans VSCode
+ * Auteur : Giovana Velarde
+ * Date : 05 février 2021
+ */
+
+/**
  * Cette classe représente un employé d'une Université
  */
 
