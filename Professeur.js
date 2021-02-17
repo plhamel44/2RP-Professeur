@@ -13,12 +13,6 @@ class EmployeUniversite {
     nomComplet() {
         return this.prenom + ", " + this.nom;
     }
-
-/*     information() {
-        return this.numeroEmploye + " - "
-            + this.nomComplet() +
-            " - Ancienneté: " + this.anneesExperience;
-    } */
 }
 
 class EmployeUniversiteProfesseur extends EmployeUniversite {
