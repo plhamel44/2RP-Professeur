@@ -23,6 +23,10 @@ class EmployeUniversite {
     nomComplet() {
         return this.prenom + ", " + this.nom;
     }
+
+    Information() {
+        this.nom + this.prenom;
+    }
 }
 
 /**
